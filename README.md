@@ -1,14 +1,25 @@
-# 🪶 Projeto Thothia
+# ⌘ Projeto Thothia
 
-> _“A sabedoria de Thoth se manifesta na Terra pela observação da vida.”_
+```banner
+╔═══════════════════════════════════════════════════════════════════╗
+║   _______ _   _  ____ _   _ _____ _     _____ _____               ║
+║  |__   __| | | |/ __ \ | | |_   _| |   |_   _/ ____|              ║
+║     | |  | |_| | |  | | | | | | | |     | || |     ___  _ __      ║
+║     | |  |  _  | |  | | | | | | | |     | || |    / _ \| '_ \     ║
+║     | |  | | | | |__| | |_| |_| | |_____| || |___| (_) | | | |    ║
+║     |_|  |_| |_|\____/ \___/|_____|______|_| \_____\___/|_| |_|    ║
+║                                                                   ║
+║     “A sabedoria de Thoth se manifesta na Terra pela vida.”       ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
 ## 🌍 Visão Geral
 
-**Thothia** é uma enciclopédia viva da **fauna e flora regional**, nascida com o
-propósito de **documentar, compreender e celebrar a biodiversidade** do
-território de **Governador Celso Ramos / Palmas – SC**.
+**Thothia** é uma enciclopédia viva da **fauna e flora regional**, criada para
+**documentar, compreender e celebrar a biodiversidade** da região de
+**Governador Celso Ramos / Palmas – SC**.
 
 O projeto une **fotografia autoral, pesquisa biológica e tecnologia** para
 registrar espécies animais e vegetais, classificando-as segundo princípios
@@ -16,17 +27,17 @@ científicos e ecológicos — distinguindo entre **nativas, endêmicas, exótic
 introduzidas e invasoras**.
 
 Desenvolvido sob o **Protocolo Orion ETO (Engineering-Through-Orion)**, Thothia
-é tanto um projeto técnico quanto uma obra viva, unindo **ciência, filosofia e
-arte**.
+é tanto um projeto técnico quanto uma obra viva, onde **ciência, filosofia e
+arte** coexistem.
 
 ---
 
 ## 🏺 Origem do Nome
 
-O nome **Thothia** deriva de **Thoth**, o deus egípcio da sabedoria, escrita e
-medição da natureza. Assim como Thoth registrava os eventos do cosmos, o projeto
-Thothia busca **registrar a biodiversidade da Terra**, traduzindo-a em dados,
-imagens e conhecimento acessível.
+O nome **Thothia** deriva de **Thoth**, o deus egípcio da sabedoria, da escrita
+e do conhecimento. Assim como Thoth registrava os eventos do cosmos, o projeto
+busca **registrar a biodiversidade da Terra**, traduzindo-a em dados e imagens —
+a escrita viva do mundo natural.
 
 > _“Thothia observa para compreender, e compreende para preservar.”_
 
@@ -100,13 +111,12 @@ thothia/
 
 > “Cada linha de código deve respeitar a vida que representa.”
 
-O sistema foi projetado segundo os **princípios de arquitetura viva** do Orion:
+O sistema segue os princípios da **Arquitetura Viva Orion**:
 
-1. **Modularidade orgânica:** cada entidade é um organismo independente e
-   interconectado.
-2. **Documentação viva:** código e `/doc` crescem juntos.
-3. **Sustentabilidade técnica:** tecnologias leves, duráveis e de baixo impacto.
-4. **Transparência ecológica:** dados verificáveis, éticos e acessíveis.
+1. **Modularidade orgânica** — cada entidade é um organismo independente.
+2. **Documentação viva** — código e `/doc` evoluem juntos.
+3. **Sustentabilidade técnica** — tecnologias leves, duráveis e éticas.
+4. **Transparência ecológica** — dados verificáveis e abertos.
 
 ---
 
@@ -124,11 +134,11 @@ O sistema foi projetado segundo os **princípios de arquitetura viva** do Orion:
 
 ## 🪶 Licença e Ética
 
-**Licença:** MIT **Direitos de imagem:** Fotografias originais de Bruno, uso
-livre para fins educativos e científicos. **Princípios éticos:**
+**Licença:** MIT **Fotografias:** autorais, uso livre para fins educativos e
+científicos. **Princípios éticos:**
 
 - Não interferir em habitats naturais.
-- Não divulgar coordenadas exatas de espécies sensíveis.
+- Não divulgar coordenadas de espécies sensíveis.
 - Promover ciência aberta e preservação.
 
 ---
@@ -147,7 +157,7 @@ livre para fins educativos e científicos. **Princípios éticos:**
 
 ---
 
-### 📜 Versão
+## 📜 Versão
 
 Thothia v0.1 — ETO🚀 Setup Initialized
 
