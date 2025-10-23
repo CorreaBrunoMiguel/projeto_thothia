@@ -99,3 +99,7 @@ docker-compose.override.yml
 *.tmp
 *.log
 *.old
+
+/src/generated/prisma
+
+/src/generated/prisma
