@@ -1,0 +1,101 @@
+# --- Node / JavaScript ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+.env.local
+.env.*.local
+
+# --- Build outputs ---
+dist/
+build/
+.next/
+out/
+coverage/
+*.log
+
+# --- TypeScript ---
+*.tsbuildinfo
+
+# --- React / Frontend ---
+.cache/
+.parcel-cache/
+.vscode/
+*.local
+*.DS_Store
+
+# --- Python / Data Science ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+.eggs/
+build/
+develop-eggs/
+dist/
+pip-wheel-metadata/
+*.manifest
+*.spec
+*.ipynb_checkpoints
+.ipython/
+.pytest_cache/
+.mypy_cache/
+.env/
+venv/
+env/
+ENV/
+venv*/
+.env*/
+*.sqlite3
+
+# --- Jupyter & AI experiments ---
+*.ipynb_checkpoints/
+wandb/
+mlruns/
+models/
+results/
+outputs/
+data/
+notebooks/.ipynb_checkpoints
+__pycache__/
+*.ckpt
+*.onnx
+*.pth
+*.pt
+*.h5
+*.joblib
+*.pkl
+*.csv
+*.tsv
+*.parquet
+
+# --- System & IDEs ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# --- Docker ---
+docker-compose.override.yml
+.docker/
+*.pid
+*.sock
+
+# --- Misc ---
+*.orig
+*.rej
+*.bak
+*.tmp
+*.log
+*.old
